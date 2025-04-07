@@ -27,7 +27,7 @@ def resetar_placar(props, button):
     atualizar_score()
 
 def script_description():
-    return "Placar central de vitórias e derrotas: estilo '3 – 1'"
+    return "Central win/loss scoreboard: '3 – 1' style"
 
 def script_update(settings):
     atualizar_score()
